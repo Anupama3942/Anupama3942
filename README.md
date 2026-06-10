@@ -22,12 +22,12 @@
 
 ```python
 class Developer:
-    name        = "Your Name"
+    name        = "Anupama Aluthge"
     degree      = "BICT (Hons) — University of Vavuniya"
     role        = "Developer & Automation Architect"
     passion     = "Bridging complex information systems with user-oriented software"
     philosophy  = "I don't just write code — I build automated ecosystems"
-    os          = "Fedora Linux 🐧"
+    os          = "Linux 🐧"
     
     def current_focus(self):
         return [
