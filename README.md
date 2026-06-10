@@ -22,12 +22,12 @@
 
 ```python
 class Developer:
-    name        = "Your Name"
+    name        = "Anupama Aluthge"
     degree      = "BICT (Hons) — University of Vavuniya"
     role        = "Developer & Automation Architect"
     passion     = "Bridging complex information systems with user-oriented software"
     philosophy  = "I don't just write code — I build automated ecosystems"
-    os          = "Fedora Linux 🐧"
+    os          = "Linux 🐧"
     
     def current_focus(self):
         return [
@@ -150,9 +150,8 @@ class Developer:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupama3942)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupama-aluthge/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupamaaluthge@gmail.com)
 
 </div>
 
