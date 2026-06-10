@@ -4,15 +4,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=180&section=header&text=Hey%20There!%20I%27m%20a%20Dev%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Developer%20%26%20Automation%20Architect&descAlignY=56&descSize=20&descColor=00d9ff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=BICT+(Hons)+%40+University+of+Vavuniya;Developer+%26+Automation+Architect;Building+Automated+Ecosystems;Mobile+%7C+Web+%7C+Backend+%7C+Linux" alt="Typing SVG" />
-</a>
+<!-- <a href="https://git.io/typing-svg"> -->
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=BICT+(Hons)+%40+University+of+Vavuniya;Developer+%26+Automation+Architect;Building+Automated+Ecosystems;Mobile+%7C+Web+%7C+Backend+%7C+Linux" alt="Typing SVG" />
+</a> -->
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Anupama3942&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Anupama3942?label=Followers&style=social)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -149,7 +149,7 @@ class Developer:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anupama3942)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
