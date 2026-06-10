@@ -12,7 +12,7 @@
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Anupama3942&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Anupama3942?label=Followers&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Anupama3942?label=Followers&style=social)](https://github.com/Anupama3942)
 
 </div>
 
@@ -102,21 +102,21 @@ class Developer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anupama3942&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anupama3942&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupama3942&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anupama3942&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -126,7 +126,7 @@ class Developer:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Anupama3942&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
